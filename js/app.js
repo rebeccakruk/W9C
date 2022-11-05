@@ -10,18 +10,11 @@ itemNames.push("Mango");
 itemPrices.push("2.29");
 inStock.push(true);
 
-// if (inStock = true) {
-//     console.log("in stock");
-// }
-
-// if (!inStock == false){
-//     console.log("out of stock");
-// }
-
 // the 0 represents the first item on the list
-console.log(`First item name: ${itemNames[0]}`);
-console.log(`First item price: ${itemPrices[0]}`);
+// console.log(`First item name: ${itemNames[0]}`);
+// console.log(`First item price: ${itemPrices[0]}`);
 
+// the 3 represents the fourth item on the list (the item added with push)
 console.log(`Last item name: ${itemNames[3]}`);
 console.log(`Last item price: ${itemPrices[3]}`);
 
